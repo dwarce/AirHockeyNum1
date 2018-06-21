@@ -50,4 +50,3 @@ public class TextResourceReader {
         return body.toString();
     }
 }
-
